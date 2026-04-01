@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "我的个人主页",
+    "section": "",
+    "text": "欢迎来到我的个人网站！"
+  },
+  {
+    "objectID": "index.html#关于我",
+    "href": "index.html#关于我",
+    "title": "我的个人主页",
+    "section": "关于我",
+    "text": "关于我\n\n学号：2025303110122\n专业：资源环境信息工程\n兴趣：还在寻找"
+  },
+  {
+    "objectID": "index.html#我的技能",
+    "href": "index.html#我的技能",
+    "title": "我的个人主页",
+    "section": "我的技能",
+    "text": "我的技能\n\nR\nPython\nQuarto\nGIS"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "关于我",
+    "section": "",
+    "text": "我是 成一潇，目前在学习数据科学和可重复性研究。\n联系方式：xxxxx@gmail.com"
+  }
+]
