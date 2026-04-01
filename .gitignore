@@ -1,0 +1,17 @@
+# Quarto 缓存文件夹
+.quarto/
+
+# 临时文件
+*.quarto_ipynb
+*.log
+*.aux
+*.out
+
+# 操作系统生成的文件
+.DS_Store
+Thumbs.db
+
+# 如果你不希望将生成的 HTML 提交（但我们需要提交 docs 文件夹，所以不要忽略 docs）
+# 注意：我们是要提交 docs 文件夹的，所以不要加 docs/ 到忽略列表
+/.quarto/
+**/*.quarto_ipynb
